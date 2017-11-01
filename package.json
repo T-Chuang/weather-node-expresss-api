@@ -1,0 +1,15 @@
+{
+  "name": "simpleweather-node-express-api",
+  "version": "1.0.0",
+  "description": "Simple weather app built with Node, Express, OpenWeather API. https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Theodore Chuang",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
